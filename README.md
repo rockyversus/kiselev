@@ -1,6 +1,6 @@
 # Геометрия Киселёва — сайт открытого издания
 
-Версия сайта 6. Единая библиотека восьми книг «Элементарной геометрии» по 23-му изданию 1914 года. Первая опубликованная книга — стереометрия, Книга I «Прямые и плоскости», v1.0.0. [Открыть сайт](https://rockyversus.github.io/kiselev-geometry-site/)
+Версия сайта 6. Единая библиотека восьми книг «Элементарной геометрии» по 23-му изданию 1914 года. Первая опубликованная книга — стереометрия, Книга I «Прямые и плоскости», v1.0.0. [Открыть сайт](https://rockyversus.github.io/kiselev/)
 
 ## Открыть локально
 
@@ -30,7 +30,9 @@
 
 ## Публикация через GitHub Pages
 
-Репозиторий сайта — `rockyversus/kiselev-geometry-site`. GitHub Pages публикует файлы из корня ветки `main` (`Settings → Pages → Deploy from a branch → main → /(root)`). Файл `.nojekyll` позволяет разместить готовый HTML напрямую. После обновления ветки проверьте главную страницу и PDF по публичному адресу. [Настройки Pages](https://github.com/rockyversus/kiselev-geometry-site/settings/pages)
+Репозиторий сайта — `rockyversus/kiselev`. GitHub Pages публикует файлы из корня ветки `main` (`Settings → Pages → Deploy from a branch → main → /(root)`). Файл `.nojekyll` позволяет разместить готовый HTML напрямую. После обновления ветки проверьте главную страницу и PDF по публичному адресу. [Настройки Pages](https://github.com/rockyversus/kiselev/settings/pages)
+
+Прежний публичный адрес перенаправляется на новый из [репозитория персонального сайта](https://github.com/rockyversus/rockyversus.github.io).
 
 ## Добавление следующих книг
 
