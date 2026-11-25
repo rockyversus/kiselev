@@ -1,6 +1,6 @@
 # Геометрия Киселёва — сайт открытого издания
 
-Версия сайта 6. Единая библиотека восьми книг «Элементарной геометрии» по 23-му изданию 1914 года. Первая опубликованная книга — стереометрия, Книга I «Прямые и плоскости», v1.0.0. [Открыть сайт](https://rockyversus.github.io/kiselev/)
+Версия сайта 6. Единая библиотека восьми книг «Элементарной геометрии» по 23-му изданию 1914 года. Первая опубликованная книга — стереометрия, Книга I «Прямые и плоскости», v1.0.1. [Открыть сайт](https://rockyversus.github.io/kiselev/)
 
 ## Открыть локально
 
@@ -19,8 +19,8 @@
 ## Источники и контроль версии
 
 - [Актуальный репозиторий книги](https://github.com/rockyversus/kiselev-geometry-schoolbook), ветка `main`.
-- [Релиз v1.0.0](https://github.com/rockyversus/kiselev-geometry-schoolbook/releases/tag/v1.0.0) от 23 ноября 2026 года.
-- [Опубликованный PDF](https://github.com/rockyversus/kiselev-geometry-schoolbook/releases/download/v1.0.0/kiselev-stereometry-book-1.pdf). Локальная копия: 477855 байт, Git blob SHA-1 `3457b1f511aef3bd3773bca4ffc885a8a56d7984`, 55 страниц. Содержание: введение, пять глав, §§ 344–403 и 52 рисунка Книги I (№ 301–352).
+- [Релиз v1.0.1](https://github.com/rockyversus/kiselev-geometry-schoolbook/releases/tag/v1.0.1) от 25 ноября 2026 года.
+- [Опубликованный PDF](https://github.com/rockyversus/kiselev-geometry-schoolbook/releases/download/v1.0.1/kiselev-stereometry-book-1.pdf). Локальная копия: 479549 байт, Git blob SHA-1 `48fc8d2dfe3f576dc21013be7a800fbb958479bc`, 55 страниц. Содержание: введение, пять глав, §§ 344–403 и 52 рисунка Книги I (№ 301–352).
 - [Оригинал 1914 года (DjVu)](https://commons.wikimedia.org/wiki/File:А._П._Киселёв._Элементарная_геометрия_(1914).djvu). Для иллюстраций использована PDF-копия скана. Названия восьми книг сверены по оглавлению, печатные страницы 391–393 (страницы PDF 402–404).
 - `stereo-1914.webp`: печатная страница 272 (PDF скана 283), `stereo-modern.webp`: страница 11 выпуска; рисунки 301–302.
 - `stereo-1914-2.webp`: печатная страница 275 (PDF скана 286), `stereo-modern-2.webp`: страница 14 выпуска; § 351 и рисунок 304.
